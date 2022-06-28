@@ -1,0 +1,17 @@
+# Rotas:
+  - Rota de Início (Entrada do site para encaminhamento às demais páginas). -- Marta
+  - Botão de login emcaminha para a Rota de Login (cadastro básico de entrada). -- Marta
+  - Botão de cadastro encaminha para a Rota de Cadastro (cadastro completo para informaçõs). -- Malu
+  - Rota de Cadastro cliente, encaminhada pelo link encontrado em um dos botões do cadastro inicial. -- Malu
+  - Rota de Cadastro motorista, encaminhada pelo link encontrado em um dos botões do cadastro inicial. -- Caio
+  - Rota Perfil Cliente. -- Caio
+  - Rota Perfil Motorista. -- caio
+  
+ # HTML:
+  - Html base com informaçõe de rodapé, contato: e-mail, celular, intagram ficticio.
+  - Html para cada rota criada no tópico acima.
+  
+  CADA UM FICA COM O HTML DE SUA ROTA
+ 
+ # CSS:
+  - Abstração bootstrap para as abas e rotas direcionadas.
