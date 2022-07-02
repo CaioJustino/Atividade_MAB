@@ -1,11 +1,11 @@
 # Rotas:
-  - Rota de Início (Entrada do site para encaminhamento às demais páginas). -- Marta
-  - Botão de login emcaminha para a Rota de Login (cadastro básico de entrada). -- Marta
-  - Botão de cadastro encaminha para a Rota de Cadastro (cadastro completo para informaçõs). -- Malu
-  - Rota de Cadastro cliente, encaminhada pelo link encontrado em um dos botões do cadastro inicial. -- Malu
-  - Rota de Cadastro motorista, encaminhada pelo link encontrado em um dos botões do cadastro inicial. -- Caio
-  - Rota Perfil Cliente. -- Caio
-  - Rota Perfil Motorista. -- caio
+  - Rota de Início (Entrada do site para encaminhamento às demais páginas).
+  - Botão de login emcaminha para a Rota de Login (cadastro básico de entrada).
+  - Botão de cadastro encaminha para a Rota de Cadastro (cadastro completo para informaçõs).
+  - Rota de Cadastro cliente, encaminhada pelo link encontrado em um dos botões do cadastro inicial.
+  - Rota de Cadastro motorista, encaminhada pelo link encontrado em um dos botões do cadastro inicial.
+  - Rota Perfil Cliente.
+  - Rota Perfil Motorista.
   
  # HTML:
   - Html base com informaçõe de rodapé, contato: e-mail, celular, intagram ficticio.
@@ -15,3 +15,10 @@
  
  # CSS:
   - Abstração bootstrap para as abas e rotas direcionadas.
+  
+ # REPETIÇÃO:
+  - Rota de avaliação.
+  
+ # BASE DO HTML:
+  - Logo do MAB.
+  - Contatos no rodapé da página.
